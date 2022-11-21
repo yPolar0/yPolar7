@@ -3,6 +3,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 > Rblx / Roblox - [Profile](https://www.roblox.com/users/1106314162/profile)<br/>
-![Roblox](message=Script%20Developer&color=ff69b4)
+![Roblox](https://img.shields.io/static/v1?label=Script%20Developer&color=ff69b4)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/502974588075114509)](https://discord.com/users/502974588075114509)
